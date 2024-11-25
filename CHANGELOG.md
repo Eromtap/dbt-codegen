@@ -8,7 +8,7 @@
 * Case sensitive generate source by @pnadolny13 in https://github.com/dbt-labs/dbt-codegen/pull/168
 
 ### Fixes
-
+* Fixed base_model_creation.sh to accept multiple table args
 * Escape upstream descriptions in generate_model_yaml by @wircho in https://github.com/dbt-labs/dbt-codegen/pull/159
 
 ### Docs
